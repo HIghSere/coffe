@@ -1,0 +1,117 @@
+body {
+    background-color: #20272e;
+}
+
+.navbar {
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #20272e;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    padding: 10px 20px; /* パディングを設定 */
+}
+
+.nav-title {
+    color: #5b6670;
+    font-size: 18px;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    margin-right: 120px;
+}
+
+.nav-link {
+    color: #5b6670;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+.nav-link:hover {
+    background-color: #363636;
+    border-radius: 4px;
+}
+
+.title {
+    color: #5b6670;
+    margin-top: 100px;
+}
+
+.nav-icon {
+    width: 20px;
+    height: auto;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+.container {
+    margin-top: 60px;
+    color: #5b6670;
+    text-align: center;
+}
+
+.profile-container {
+    color: #5b6670;
+    display: flex;
+    justify-content: flex;
+    text-align: left;
+    margin: 50px auto;
+    padding: 15px;
+    background-color: #242e3a;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    max-width: 400px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.profile-text-container {
+    flex-direction: column;
+}
+
+.my-icon {
+    width: 100px;
+    height: auto;
+    padding-right: 30px;
+}
+
+.profile-text {
+    margin: 0;
+    padding: 0;
+}
+
+.noserumononai {
+    color: #5b6670;
+    text-align: center;
+    font-size: 70px;
+}
+
+.bikkuri {
+    color: #5b6670;
+    text-align: center;
+}
+
+.build-by-melatnix {
+    color:#5b6670;
+    text-align: center;
+}
+
+/* スマホ用のスタイル */
+@media (max-width: 600px) {
+    .nav-title {
+        font-size: 14px; /* スマホ用のフォントサイズ */
+        margin: 5px; /* スマホ用のマージン */
+    }
+    .nav-link {
+        font-size: 12px; /* スマホ用のリンクフォントサイズ */
+        padding: 5px 10px; /* スマホ用のパディング */
+        margin: 0 5px; /* スマホ用のマージン */
+    }
+}
