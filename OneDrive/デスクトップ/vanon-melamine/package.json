@@ -2,7 +2,7 @@
   "name": "vanon-melamine",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://highsere.github.io/melatnix/",
+  "homepage": "https://highsere.github.io/highsere.github.io-melatnix",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
