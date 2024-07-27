@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/melatnix/static/css/main.1f96ab89.css",
+    "main.js": "/melatnix/static/js/main.3ceb7a87.js",
+    "index.html": "/melatnix/index.html",
+    "main.1f96ab89.css.map": "/melatnix/static/css/main.1f96ab89.css.map",
+    "main.3ceb7a87.js.map": "/melatnix/static/js/main.3ceb7a87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f96ab89.css",
+    "static/js/main.3ceb7a87.js"
+  ]
+}
