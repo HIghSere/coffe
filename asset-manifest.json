@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TashiroCannonWeb/static/css/main.7d1835f0.css",
-    "main.js": "/TashiroCannonWeb/static/js/main.3cd8c373.js",
-    "index.html": "/TashiroCannonWeb/index.html",
-    "main.7d1835f0.css.map": "/TashiroCannonWeb/static/css/main.7d1835f0.css.map",
-    "main.3cd8c373.js.map": "/TashiroCannonWeb/static/js/main.3cd8c373.js.map"
+    "main.css": "/highsere.github.io-melatnix/static/css/main.61a26da9.css",
+    "main.js": "/highsere.github.io-melatnix/static/js/main.09558920.js",
+    "index.html": "/highsere.github.io-melatnix/index.html",
+    "main.61a26da9.css.map": "/highsere.github.io-melatnix/static/css/main.61a26da9.css.map",
+    "main.09558920.js.map": "/highsere.github.io-melatnix/static/js/main.09558920.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d1835f0.css",
-    "static/js/main.3cd8c373.js"
+    "static/css/main.61a26da9.css",
+    "static/js/main.09558920.js"
   ]
 }
